@@ -117,6 +117,12 @@ mvn spring-boot:run
 *Wait until you see "Started ...Application" in all three.*
 
 ### Step 2: Play the Game!
+You can run the game in two ways:
+
+**Option A: The Executable (Windows)**
+Go to `c:/Users/SAMBANNER/Documents/GitHub/Tictactoe/dist/` and double-click **TicTacToe-Sketch.exe**.
+
+**Option B: Python Source**
 Open a **4th Terminal**:
 ```bash
 cd c:/Users/SAMBANNER/Documents/GitHub/Tictactoe/tictactoe-client
